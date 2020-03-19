@@ -1,5 +1,6 @@
 # DH-project
 
+(To read the following text in its intended alignment, it is best to open it through Sublime)
 For this project, I made a site using boostrap. index.html is the home page, and other pages can be found through the navigation bar. 
 
 What I learned in this project:
