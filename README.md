@@ -3,7 +3,7 @@
 For this project, I made a site using boostrap. index.html is the home page, and other pages can be found through the navigation bar. 
 
 What I learned in this project:
--implementing a navigation bar and changing its color the ones available in Boostrap
+-implementing a navigation bar and changing its color to the  the ones available in Boostrap
 -implementing general text color/background availble in Bootstrap
 -centering images and making them in the shape of a circle
 -centering text
